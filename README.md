@@ -1,5 +1,5 @@
 <meta http-equiv="refresh" content="2; URL=https://ljr0321.github.io/home" />
 <body>
   <p>Redirecting...</p>
-  Still here?<a href="https://ljr0321.github.io/home">home</a>.</p>
+  Not Working?<a href="https://ljr0321.github.io/home">Click Here</a></p>
 </body>
