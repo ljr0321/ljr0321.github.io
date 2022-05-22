@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; URL=ljr0321.github.io/home" />
+<meta http-equiv="refresh" content="0; URL=https://ljr0321.github.io/home" />
